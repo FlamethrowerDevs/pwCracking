@@ -1,12 +1,5 @@
-wordlists/combined.txt
-wordlists/num4and5.txt
-hashes/solution.txt
-wordlists/4and5.txt
-wordlists/all.txt
-wordlists/dates.txt
-wordlists/combined4and5.txt
+wordlists/*
 __pycache__
 hashes/hashes.json
 hashes/hashes.txt
-data/*.json
-data/main.log
+logs.log

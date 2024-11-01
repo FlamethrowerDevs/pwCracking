@@ -65,7 +65,6 @@ DATE_RANGES = [
 ]
 
 
-# TODO: modify for format being used
 def readFromJSON():
     # Read JSON data from a file
     with open("hashes/hashes.json", "r") as file:
